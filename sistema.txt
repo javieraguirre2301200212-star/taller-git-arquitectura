@@ -1,3 +1,5 @@
 Sistema de pagos Fintech
 
 Se agrega validación básica de pagos
+
+Se agrega modelo antifraude
